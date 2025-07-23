@@ -4,7 +4,9 @@ public class CalculadoraSimples {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("=== Calculadora Simples ===");
+       System.out.println("=========================");
+System.out.println("  CALCULADORA SIMPLES");
+System.out.println("=========================");
 
         System.out.print("Digite o primeiro número: ");
         double num1 = scanner.nextDouble();
