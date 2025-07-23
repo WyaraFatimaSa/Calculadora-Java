@@ -44,8 +44,9 @@ System.out.println("=========================");
         }
 
         if (operacaoValida) {
-            System.out.println("Resultado: " + resultado);
-        }
+         System.out.println("Resultado: " + resultado);
+System.out.println("-------------------------");
+
 
         scanner.close();
     }
